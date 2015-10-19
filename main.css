@@ -1,0 +1,67 @@
+html {
+	background-color: #b2b2b2;
+	width: 100%
+}
+h1 {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-right: 150px;
+	margin-left: 150px;
+	font-size: 40px;
+	background-color: #e6ffcc;
+	border: 2px solid #666666;
+	color: #006666;
+	font-family: helvetica; 
+	font-weight: 500;
+
+}
+h3 {
+	text-align: center;
+	color: #006666;
+	font-family: helvetica;
+	font-weight: 500;
+}
+
+.instructions {
+	line-height: 30px;
+	text-align: center;
+	font-family: helvetica; 
+	font-weight: 100;
+	color: #006666;
+}
+
+.numberInput {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.inputBox {
+	width: 200px;
+	height: 20px;
+}
+
+.button, .clearList {
+	background-color: #e6ffcc;
+	border: 1px solid #666666;
+	border-radius: 5px;
+}
+
+
+
+.fizzbuzz {
+	margin-left: 20px;
+	line-height: 20px;
+	text-align: center;
+	list-style-type: none;
+	color: #006666;
+	font-family: helvetica;
+	font-weight: 100;
+}
+
+.resetButton {
+	display: inline-block;
+}
